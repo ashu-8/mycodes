@@ -1,4 +1,4 @@
-# OpportunityGeeks
+NITJ Placement portal - Helps student to view and apply for companies that visit the campu
 
 Frontend: EJS 
 
@@ -6,9 +6,8 @@ Backend: Node/Express
 
 Database:MongoDB/Mongoose
 
-Hosting Provider : Heroku 
 
-Login As Admin Use : host@gmail.com and password: host
+ 
 
 
 
